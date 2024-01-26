@@ -1,0 +1,119 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #1b1b1b;
+    background-size: cover;
+    padding: 20px;
+}
+
+.main-heading {
+    font-family: "bree serif";
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.book-title {
+    background-color: #e6f6ff;
+    border-radius: 10px;
+}
+
+.img-card {
+    height: 40vh;
+    width: 30vh;
+}
+
+.text-container {
+    padding: 12px;
+}
+
+.wings-heading {
+    font-family: "bree serif";
+    font-size: 20px;
+    color: #183b56;
+}
+
+.biography-paragraph {
+    color: #06070d;
+    font-size: 15px;
+    font-family: "bree serif";
+}
+
+.author-name {
+    color: #183b56;
+    font-size: 12px;
+    font-family: "bree serif";
+}
+
+.recommended-heading {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "bree serif";
+    margin-top: 7px;
+}
+
+.bottom-image {
+    height: 30vh;
+    width: 20vh;
+    margin-bottom: 20px;
+}
+
+.book-heading {
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "bree serif";
+}
+
+.book-paragraph {
+    color: #9aa5b1;
+    font-size: 12px;
+    font-family: "bree serif";
+}
+
+.margin-desription {
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.section-background {
+    background-color: #1b1b1b;
+    background-size: cover;
+    width: 100vh;
+    padding: 20px;
+    text-align: center;
+}
+
+.kings-img {
+    height: 60vh;
+    width: 60vh;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 15px;
+}
+
+.section-heading {
+    font-family: "bree serif";
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.author-para {
+    color: #9aa5b1;
+    font-size: 12px;
+    font-family: "bree serif";
+}
+
+.button {
+    background-color: yellow;
+    color: black;
+    font-family: "roboto";
+    border-width: 0px;
+    border-radius: 5px;
+    height: 38px;
+    width: 90px;
+}
+
+.last-paragraph {
+    color: #9aa5b1;
+    font-size: 12px;
+    font-family: "bree serif";
+}
